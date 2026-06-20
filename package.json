@@ -1,5 +1,5 @@
 {
-  "name": "error-handling-api",
+  "name": "museum-heist-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,6 +12,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongo-sanitize": "^1.1.0",
+    "mongoose": "^9.7.1"
   }
 }
